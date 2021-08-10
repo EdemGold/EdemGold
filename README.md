@@ -8,10 +8,10 @@
 
 - 💬 Ask me about **myself and what I do**
 
-- check out my blog [here](https://goldedem.hashnode.dev/)
+- 📖 check out my blog [here](https://goldedem.hashnode.dev/)
 
 - 📫 Reach me at **ekmedm@gmail.com**
-- ✒ Visit my personal  [here](https://goldedem.hashnode.dev/)
+- ✒ Visit my personal website [here](https://goldedem.hashnode.dev/)
 
 - ⚡ Fun fact **I love Football, bread and fried foods**
 
