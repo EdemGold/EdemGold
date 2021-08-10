@@ -30,6 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdemGold&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 ](https://github.com/EdemGold/github-readme-stats)
 
-[![EdemGold's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdemGold&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)](https://github.com/EdemGold/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdemGold)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdemGold&theme=tokyonight)](https://git.io/streak-stats)
