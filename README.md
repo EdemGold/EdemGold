@@ -26,7 +26,6 @@
 <img align="left" alt="Visual Studio Code" width="40" height = "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="google cloud" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-<img align="left" alt="google cloud" width="40" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg">
 </a> </p>
 
 <h3 align="left">My Stats:</h3>
