@@ -1,19 +1,18 @@
 # Hi 👋, I'm Edem Gold
 
-* 🔭 I'm currently building the future of Open Source at [Aviyel](https://aviyel.com/).
+* 🔭 I as part of the team that was buildiing the future of open source at  [Aviyel](https://aviyel.com/).
 * 👯 I’m looking to collaborate on **open source projects, articles, and interviews.**
 * 💬 Ask me about **myself and what I do on [Twitter](https://twitter.com/EdemGold1).**
 * 📖 check out my blog [here](https://goldedem.hashnode.dev/)
 * 📫 Reach me at **edemekomobonggold@gmail.com**
 * ✒ Visit my personal website [here](https://goldedem.hashnode.dev/)
-* This awesome ReadMe was built with the [Aviyel GitHub ReadMe generator](https://aviyel.com/github-readme).
 
 ## Writings
 
 Check out my [Blog](https://goldedem.hashnode.dev/)
 
 ## Social Links
-[Aviyel](https://aviyel.com/@edemgoldaviyel)  •  [github](https://github.com/EdemGold)  •  [twitter](https://twitter.com/EdemGold1)  •  [website](https://edemgold.blog/)
+ [twitter](https://twitter.com/EdemGold1)  •  [website](https://edemgold.blog/)
 
 
 
