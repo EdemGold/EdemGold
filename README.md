@@ -1,6 +1,5 @@
 # Hi 👋, I'm Edem Gold
 
-* 🔭 I as part of the team that was buildiing the future of open source at  [Aviyel](https://aviyel.com/).
 * 👯 I’m looking to collaborate on **open source projects, articles, and interviews.**
 * 💬 Ask me about **myself and what I do on [Twitter](https://twitter.com/EdemGold1).**
 * 📖 check out my blog [here](https://edemgold.github.io/)
