@@ -3,16 +3,16 @@
 * 🔭 I as part of the team that was buildiing the future of open source at  [Aviyel](https://aviyel.com/).
 * 👯 I’m looking to collaborate on **open source projects, articles, and interviews.**
 * 💬 Ask me about **myself and what I do on [Twitter](https://twitter.com/EdemGold1).**
-* 📖 check out my blog [here](https://goldedem.hashnode.dev/)
+* 📖 check out my blog [here](https://edemgold.github.io/)
 * 📫 Reach me at **edemekomobonggold@gmail.com**
-* ✒ Visit my personal website [here](https://goldedem.hashnode.dev/)
+* ✒ Visit my personal website [here](https://edemgold.github.io/))
 
 ## Writings
 
-Check out my [Blog](https://goldedem.hashnode.dev/)
+Check out my [Blog](https://edemgold.github.io/)
 
 ## Social Links
- [twitter](https://twitter.com/EdemGold1)  •  [website](https://edemgold.blog/)
+ [twitter](https://twitter.com/EdemGold1)  •  [website](edemgold.github.io)
 
 
 
