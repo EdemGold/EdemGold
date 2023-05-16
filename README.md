@@ -3,8 +3,8 @@
 * 👯 I’m looking to collaborate on **open source projects, articles, and interviews.**
 * 💬 Ask me about **myself and what I do on [Twitter](https://twitter.com/EdemGold1).**
 * 📖 check out my blog [here](https://edemgold.github.io/)
-* 📫 Reach me at **edemekomobonggold@gmail.com**
-* ✒ Visit my personal website [here](https://edemgold.github.io/))
+* 📫 Reach me at **edemgold@skiff.org**
+* ✒ Subcribe to my [newsletter](https://edemgold.substack.com/)
 
 ## Writings
 
